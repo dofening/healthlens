@@ -1,0 +1,10 @@
+# 保留数据目录说明，忽略 Edge 配置和解析结果。
+/data/*
+!/data/README.txt
+
+# 健康导出、分析结果和本机快捷方式。
+*.zip
+*.xml
+*.gpx
+*.csv
+*.lnk
